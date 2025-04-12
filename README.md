@@ -25,6 +25,9 @@ Feel free to connect with me!
 - [CompTIA Security+ Certificate](./LINK-FOR-COMPTIA-CERTIFICATE)  
   _Certificate demonstrating foundational cybersecurity knowledge in network security, compliance, and operational security._
 
+- [CompTIA IT Fundamentals+ Certificate](https://www.credly.com/badges/194fa377-3dfe-485e-bdd1-15c4b9d291fa/public_url)  
+_Certificate demonstrating knowledge and skills required to identify and explain the basics of computing, IT infrastructure, application and software, software development, database fundamentals, and security._
+
 ---
 
 ## 🏆 CTF Challenges
