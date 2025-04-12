@@ -8,7 +8,8 @@ Welcome to my personal cyber portfolio — a collection of tools, writeups, and 
 
 ## HackTheBox Academy
 
-- [🧪 Cyber Lab Report](./HTB Academy Student Transcript (1).pdf) – Full breakdown of tools used, test environment, and results.
+[HTB Academy Transcript](./HTB%20Academy%20Student%20Transcript%20%281%29.pdf)
+
 
 ---
 
