@@ -29,18 +29,12 @@ Feel free to connect with me!
 
 ## 🏆 CTF Challenges
 
-- **[CTF Writeups](https://github.com/yourusername/ctf-writeups)**  
-  Solutions and detailed writeups for various Capture the Flag challenges.  
-- **Top CTF Rankings**:  
-  - Ranked #15 in [CTF Competition X](link-to-ctf)  
-  - Solved 50+ challenges in [Hack The Box](https://www.hackthebox.eu)
+- [CTF Writeups](https://github.com/DannyStephens/CTF-Writeups/tree/6bf63c17f18217af76279d40bf65b91b96d5ee85)  
+  _GitHub Repository containing solutions and detailed writeups for various Capture the Flag challenges._    
 
 ---
 
 ## 🚀 Projects
-
-- **[Custom Penetration Testing Tools](https://github.com/yourusername/pen-testing-tools)** – Open-source tools designed for penetration testing and vulnerability assessment.
-- **[Network Traffic Analyzer](https://github.com/yourusername/network-traffic-analyzer)** – A Python-based tool for real-time network traffic analysis and security monitoring.
 
 ---
 
@@ -54,11 +48,10 @@ Feel free to connect with me!
 ---
 ## 📬 Contact Me
 
-Feel free to reach out to me for collaborations, questions, or feedback:
+Feel free to contact me:
 
-- 📧 Email: [youremail@domain.com](mailto:youremail@domain.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: [danny.stephens1@outlook.com](mailto:danny.stephens1@outlook.com)
+- 💼 LinkedIn: [Danny Stephens](https://www.linkedin.com/in/danny-stephens-16870b300/)
 
 
 
