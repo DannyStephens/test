@@ -6,8 +6,10 @@ Hi, I'm **Danny Stephens**! I'm a passionate cybersecurity enthusiast with exper
 
 When I'm not exploring the latest vulnerabilities, you can find me building tools, writing research notes, and taking on new certification challenges.
 
-Feel free to connect with me!
-
+Feel free to contact me:
+- 📧 Email: [danny.stephens1@outlook.com](mailto:danny.stephens1@outlook.com)
+- 💼 LinkedIn: [Danny Stephens](https://www.linkedin.com/in/danny-stephens-16870b300/)
+ 
 ---
 
 ## 👨‍💻 HackTheBox
@@ -48,14 +50,6 @@ _Certificate demonstrating knowledge and skills required to identify and explain
 - **Tools**: Metasploit, Burp Suite, Nmap, Wireshark, Hydra, Nikto, OWASP ZAP
 - **Operating Systems**: Kali Linux, Parrot OS, Ubuntu, Windows
 - **Other**: Git, Docker, Kubernetes, AWS, Cloud Security
-
----
-## 📬 Contact Me
-
-Feel free to contact me:
-
-- 📧 Email: [danny.stephens1@outlook.com](mailto:danny.stephens1@outlook.com)
-- 💼 LinkedIn: [Danny Stephens](https://www.linkedin.com/in/danny-stephens-16870b300/)
 
 
 
