@@ -38,7 +38,8 @@ _Certificate demonstrating knowledge and skills required to identify and explain
 ---
 
 ## 🚀 Projects
-
+- [ScanPro](https://github.com/DannyStephens/ScanPro)  
+  _An automated Python script that performs various reconnaissance methods on a given target.._
 ---
 
 ## 🛠️ Skills & Tools
