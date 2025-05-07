@@ -42,6 +42,10 @@ _Certificate demonstrating knowledge and skills required to identify and explain
 ## 🚀 Projects
 - [ScanPro](https://github.com/DannyStephens/ScanPro)  
   _An automated Python script that performs various reconnaissance methods on a given target.._
+
+- [Password Strength Checker](https://github.com/DannyStephens/Password-Strength-Checker)  
+  _A Python Script which uses a number of variables to determine the strength of your password.._
+  https://github.com/DannyStephens/Password-Strength-Checker
 ---
 
 ## 🛠️ Skills & Tools
