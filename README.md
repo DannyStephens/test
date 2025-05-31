@@ -1,3 +1,8 @@
+---
+layout: default
+title: Danny Stephens Cyber Portfolio
+---
+
 # Danny Stephens Cybersecurity Portfolio 
 
 ## 🧑‍💻 About Me
