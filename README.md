@@ -24,7 +24,7 @@ Feel free to contact me:
 
 ## 🎓 Certifications
 
-- [CompTIA Security+ Certificate](./LINK-FOR-COMPTIA-CERTIFICATE)  
+- [CompTIA Security+ Certificate](https://www.credly.com/badges/b236507a-10df-436e-a24c-ee5e470c83a5/public_url)  
   _Certificate demonstrating foundational cybersecurity knowledge in network security, compliance, and operational security._
 
 - [CompTIA IT Fundamentals+ Certificate](https://www.credly.com/badges/194fa377-3dfe-485e-bdd1-15c4b9d291fa/public_url)  
