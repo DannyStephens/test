@@ -44,15 +44,15 @@ _Certificate demonstrating knowledge and skills required to identify and explain
   _An automated Python script that performs various reconnaissance methods on a given target._
 
 - [Password Strength Checker](https://github.com/DannyStephens/Password-Strength-Checker)  
-  _A Python Script which uses a number of variables to determine the strength of your password._
+  _A Python script that analyzes multiple factors to assess password strength._  
 ---
 
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, Bash, PowerShell, JavaScript, SQL
-- **Tools**: Metasploit, Burp Suite, Nmap, Wireshark, Hydra, Nikto, OWASP ZAP
+- **Tools**: Metasploit, Burp Suite, Nmap, Wireshark, Hydra, Nikto
 - **Operating Systems**: Kali Linux, Parrot OS, Ubuntu, Windows
-- **Other**: Git, Docker, Kubernetes, AWS, Cloud Security
+- **Other**: Git, Docker, AWS, Cloud Security
 
 
 
