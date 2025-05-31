@@ -5,21 +5,29 @@
   <title>{{ page.title | default: "My GitHub Pages" }}</title>
   <link rel="icon" href="{{ '/favicon.ico' | https://dannycyber.com/ }}" type="image/x-icon" />
   
-  <!-- GitHub Markdown CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css" />
-  
+
   <style>
-    /* Optional: add some padding/margin so it looks better */
     body {
-      box-sizing: border-box;
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 1rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    .content-wrapper {
+      max-width: 800px;
+      padding: 2rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
     }
   </style>
 </head>
-<body class="markdown-body">
-  {{ content }}
+<body>
+  <div class="markdown-body content-wrapper">
+  </div>
 </body>
 </html>
 
