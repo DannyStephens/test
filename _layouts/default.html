@@ -2,11 +2,26 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>{{ Danny Stephens Cyber Portfolio | default: "My GitHub Pages" }}</title>
-  <link rel="icon" href="{{ '/favicon.ico' | https://dannycyber.com/ }}" type="image/x-icon" />
+  <title>{{ page.title | default: "My GitHub Pages" }}</title>
+  <link rel="icon" href="{{ '/favicon.ico' | https://dannycyber.com }}" type="image/x-icon" />
+  
+  <!-- GitHub Markdown CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css" />
+  
+  <style>
+    /* Optional: add some padding/margin so it looks better */
+    body {
+      box-sizing: border-box;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+  </style>
 </head>
-<body>
+<body class="markdown-body">
+  {{ content }}
 </body>
 </html>
+
 
 
