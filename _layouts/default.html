@@ -15,6 +15,7 @@
       background: #f0f0f0; /* light gray background for page */
       display: flex;
       justify-content: center;
+      color: #000000;
     }
   
     .content-wrapper {
@@ -24,19 +25,20 @@
       padding: 2rem;
       border-radius: 10px;
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+      color: #000000;
     }
   
     /* Optional: ensure blockquote and code blocks match background */
     .markdown-body blockquote,
     .markdown-body pre {
       background-color: #ffffff !important;
+      color: #000000;
     }
   </style>
 
 </head>
 <body>
   <div class="markdown-body content-wrapper">
-    {{ content }}
   </div>
 </body>
 </html>
