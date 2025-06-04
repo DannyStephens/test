@@ -39,7 +39,7 @@ _Certificate demonstrating knowledge and skills required to identify and explain
 
 ## 🏆 CTF Challenges
 
-- [CTF Writeups](https://github.com/DannyStephens/CTF-Writeups/tree/6bf63c17f18217af76279d40bf65b91b96d5ee85)  
+- [CTF Writeups](https://github.com/DannyStephens/CTF-Writeups.git)  
   _GitHub Repository containing solutions and detailed writeups for various Capture the Flag challenges._    
 
 ---
