@@ -46,11 +46,11 @@ _Certificate demonstrating knowledge and skills required to identify and explain
 
 ## 🚀 Projects
 
-- [ScanPro]  
-  _In Progress - An automated Python script that performs various reconnaissance methods on a given target._
+- [Static Intrusion Detection System](https://github.com/DannyStephens/Static-IDS)  
+  _A Python script that analyzes each row of network data using column-based identifiers to detect suspicious activity—such as high packet transfers, failed SSH logins, unusual protocol use, and traffic on commonly targeted ports._
 
 - [Password Strength Checker](https://github.com/DannyStephens/Password-Strength-Checker)  
-  _A Python script that analyzes multiple factors to assess password strength._
+  _A Python script that evaluates the strength of a password by analyzing its length, complexity, repetition patterns, and presence in a common password list, then scores it and gives feedback._
 
 ---
 
