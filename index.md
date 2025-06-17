@@ -47,7 +47,7 @@ _Certificate demonstrating knowledge and skills required to identify and explain
 ## 🚀 Projects
 
 - [Static Intrusion Detection System](https://github.com/DannyStephens/Static-IDS)  
-  _A Python script that analyzes each row of network data using column-based identifiers to detect suspicious activity—such as high packet transfers, failed SSH logins, unusual protocol use, and traffic on commonly targeted ports._
+  _A Python script analyzes IDS log data to detect suspicious activities like high packet rates, SSH brute force attempts, port scanning, and MAC spoofing within 5-minute windows. It prints alerts for these events while avoiding duplicates and uses customizable port-based thresholds from a CSV file._
 
 - [Password Strength Checker](https://github.com/DannyStephens/Password-Strength-Checker)  
   _A Python script that evaluates the strength of a password by analyzing its length, complexity, repetition patterns, and presence in a common password list, then scores it and gives feedback._
