@@ -19,6 +19,7 @@ Feel free to contact me:
 
 ## 👨‍💻 TryHackMe
 
+I’m actively building my cybersecurity skills through hands-on labs and challenges on TryHackMe. This badge reflects my progress and dedication to continuous learning in areas like ethical hacking, penetration testing, and network security.
 <div style="overflow: hidden; display: flex;">
   <div style="transform: scale(0.85); transform-origin: top center; max-width: 400px;">
     <iframe
@@ -27,7 +28,7 @@ Feel free to contact me:
     </iframe>
   </div>
 </div>
-I’m actively building my cybersecurity skills through hands-on labs and challenges on TryHackMe. This badge reflects my progress and dedication to continuous learning in areas like ethical hacking, penetration testing, and network security.
+
 
 ---
 
