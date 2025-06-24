@@ -19,11 +19,7 @@ Feel free to contact me:
 
 ## 👨‍💻 TryHackMe
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3051282"
-        style="border:none; width:300px; height:185px;">
-</iframe>
-
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3051282" style='border:none;'></iframe>
 
 ---
 
