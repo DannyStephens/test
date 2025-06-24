@@ -11,57 +11,52 @@
   />
 
   <style>
-    body {
-      margin: 0;
-      padding: 1rem;
-      background: #f0f0f0;
-      display: flex;
-      justify-content: center;
-    }
+  body {
+    margin: 0;
+    padding: 1rem;
+    background: #f0f0f0;
+    display: flex;
+    justify-content: center;
+  }
 
-    .content-wrapper {
-      max-width: 800px;
-      width: 100%;
-      background: #ffffff;
-      padding: 2rem;
-      border-radius: 10px;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
-      color: #000000; /* override grey text */
-    }
+  .content-wrapper {
+    max-width: 800px;
+    width: 100%;
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    color: #000000;
+  }
 
-    .markdown-body blockquote,
-    .markdown-body pre {
-      background-color: #ffffff !important;
-    }
+  .markdown-body blockquote,
+  .markdown-body pre {
+    background-color: #ffffff !important;
+  }
 
-    /* Fix gap below iframe */
-    .markdown-body iframe {
-      display: block; /* removes inline baseline gap */
-      vertical-align: top; /* helps prevent baseline gaps */
-      border: none;
-      margin: 0;
-      padding: 0;
-    }
+  /* Fix iframe spacing */
+  .markdown-body iframe {
+    display: block;
+    vertical-align: top;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
 
-    /* Remove margin, padding, font-size, and line-height on iframe wrapper div */
-    .markdown-body div[style*="overflow: hidden"] {
-      margin: 0 !important;
-      padding: 0 !important;
-      line-height: 0 !important; /* remove line box height */
-      font-size: 0 !important;   /* remove font size spacing */
-      height: 150px !important;  /* match iframe height exactly */
-      width: 400px !important;   /* match iframe width exactly */
-      overflow: hidden !important;
-    }
+  /* Remove extra margins from div wrapping iframe */
+  .markdown-body div[style*="overflow"] {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
 
-    /* Horizontal rule style with no top margin */
-    .markdown-body hr {
-      margin-top: 0 !important;
-      margin-bottom: 1rem;
-      border: 0;
-      border-top: 1px solid #dfe2e5;
-    }
-  </style>
+  /* Force <hr> to hug iframe */
+  .markdown-body hr {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    border: none;
+    border-top: 1px solid #ccc;
+  }
+</style>
+
 </head>
 <body>
   <div class="markdown-body content-wrapper">
