@@ -20,7 +20,7 @@ Feel free to contact me:
 ## 👨‍💻 TryHackMe
 
 <div style="overflow: hidden; display: flex; justify-content: center;">
-  <div style="transform: scale(1.00); transform-origin: top center; max-width: 400px;">
+  <div style="transform: scale(0.85); transform-origin: top center; max-width: 400px;">
     <iframe
       src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3051282"
       style="border: none; width: 400px; height: 150px;">
