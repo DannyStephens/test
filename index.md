@@ -19,13 +19,14 @@ Feel free to contact me:
 
 ## 👨‍💻 TryHackMe
 
-<iframe
-  src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3051282"
-  style="border: none; width: 100%; height: 200px; overflow: hidden;"
-  scrolling="no"
-></iframe>
-
-
+<div style="overflow: hidden; display: flex; justify-content: center;">
+  <div style="transform: scale(0.85); transform-origin: top center; max-width: 400px;">
+    <iframe
+      src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3051282"
+      style="border: none; width: 400px; height: 150px;">
+    </iframe>
+  </div>
+</div>
 I’m actively building my cybersecurity skills through hands-on labs and challenges on TryHackMe. This badge reflects my progress and dedication to continuous learning in areas like ethical hacking, penetration testing, and network security.
 
 ---
