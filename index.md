@@ -17,13 +17,13 @@ Feel free to contact me:
  
 ---
 
-## 👨‍💻 HackTheBox
+## 👨‍💻 TryHackMe
 
-- [HTB Academy Transcript](./HTB%20Academy%20Student%20Transcript%20%281%29.pdf)  
-  _A detailed record of my learning path and completed modules from Hack The Box Academy._
-  
-- [HTB Profile](https://app.hackthebox.com/users/1937417)  
-  _View my HTB profile._
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3051282"
+        style="border:none; width:300px; height:185px;">
+</iframe>
+
+
 
 ---
 
