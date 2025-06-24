@@ -29,7 +29,7 @@ I’m actively building my cybersecurity skills through hands-on labs and challe
   </div>
 </div>
 
-<hr style="margin-top: 0; margin-bottom: 1rem; border: 0; border-top: 1px solid #dfe2e5;" />
+<hr style="margin-top: 0 !important; margin-bottom: 1rem; border: 0; border-top: 1px solid #dfe2e5;" />
 
 ## 🎓 Certifications
 
