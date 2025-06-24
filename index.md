@@ -19,7 +19,7 @@ Feel free to contact me:
 
 ## 👨‍💻 TryHackMe
 
-I’m actively building my cybersecurity skills through hands-on labs and challenges on TryHackMe. This badge reflects my progress and dedication to continuous learning in areas like ethical hacking, penetration testing, and network security.
+I’m actively building my cybersecurity skills through hands-on labs and challenges on TryHackMe. The interactive badge below is live and updates automatically with my latest progress. Click the badge to view my full public profile and explore the rooms and challenges I've completed in areas like ethical hacking, penetration testing, and network security.
 <div style="overflow: hidden; width: 400px; height: 130px; font-size: 0; line-height: 0; margin: 0 auto;">
   <iframe
     src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3051282"
